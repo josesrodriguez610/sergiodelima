@@ -9,8 +9,8 @@ export default function Home() {
       <div className="w-full max-w-sm px-6 pt-4 text-center space-y-6">
         {/* Album Cover */}
         <img
-          src="/cover-2.jpg"
-          alt="Parrot Jungle album cover"
+          src="/cover-2.JPG"
+          alt="Home album cover"
           className="mx-auto rounded-xl shadow-lg"
         />
 
