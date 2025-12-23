@@ -65,7 +65,7 @@ export default function Home() {
 
           {/* Copyright */}
           <p className="mt-6 text-xs text-white/40">
-            © {new Date().getFullYear()} Sergio Delima. All rights reserved.
+            © {new Date().getFullYear()} Sergio DeLima. All rights reserved.
           </p>
         </div>
       </div>
