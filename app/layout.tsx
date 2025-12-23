@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Sergio Delima",
+  title: "Sergio DeLima",
   description: "My music website.",
 };
 
