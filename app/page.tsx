@@ -28,17 +28,17 @@ export default function Home() {
           />
 
           <ListenButton
-            href="https://open.spotify.com/..."
+            href="https://open.spotify.com/artist/3BCPmiMSRmmVAIZCmZpAcm"
             icon={FaSpotify}
             label="Spotify"
-            available={false}
+            available={true}
           />
 
           <ListenButton
-            href="https://music.apple.com/..."
+            href="https://music.apple.com/us/artist/sergio-delima/1865563457"
             icon={FaApple}
             label="Apple Music"
-            available={false}
+            available={true}
           />
 
           {/* <ListenButton
