@@ -34,10 +34,11 @@ export default function EpkPage() {
           <p className="mt-3 text-lg text-zinc-300">Featuring “With My Love”</p>
 
           <p className="mt-6 max-w-xl leading-7 text-zinc-400">
-            Sergio DeLima is an indie rock artist from Louisiana blending
-            atmospheric guitars, melody, and emotional songwriting. “With My
-            Love” is a featured track from <em>Home</em>, a 2026 release built
-            around mood, connection, and cinematic guitar-driven textures.
+            “With My Love,” from Home (2026), captures the feeling of sharing a
+            quiet moment with someone you love and realizing there is nowhere
+            else in the world you would rather be than right there together. The
+            song reflects the melodic and atmospheric sound that defines the
+            release.
           </p>
 
           <div className="mt-8">
