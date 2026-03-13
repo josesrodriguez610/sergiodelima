@@ -29,7 +29,9 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
-        <GoogleAnalytics gaId="G-02YEQVBMZ4" />
+        {process.env.NODE_ENV === "production" && (
+          <GoogleAnalytics gaId="G-02YEQVBMZ4" />
+        )}
       </body>
     </html>
   );
